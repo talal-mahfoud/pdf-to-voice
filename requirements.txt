@@ -1,4 +1,3 @@
---upgrade pip
 Flask
 Werkzeug
 gTTS
@@ -8,4 +7,3 @@ Pillow
 pdf2image
 playsound
 python-dotenv
-
